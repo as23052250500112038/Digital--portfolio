@@ -1,0 +1,14 @@
+Name			:	V. Parvatha priya
+Father's Name		:	R. Veerakumar
+Mother's Name		:	V. Rani
+Date Of Birth		:	15/09/2005
+Age			:	19
+Gender			:	Female
+Mobile Number		:	7010037142
+Email ID		:	parvathapriyav@gmail.com
+Education Qualification	:	BCA (Bharathidasan University)
+Programming Language	:	C, Java, Python, SQL
+Technical Skills	:	Type writing(Tamil/English)
+Address			:	104, Agambadiyar street, Chinnammangudi,
+				Thiruvonam(Union), Orathanadu(taluk),
+				Thanjavur(District)- 614 614.
